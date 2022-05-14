@@ -6,3 +6,5 @@ Blue
 Purle
 
 Rainbows are the mood enhancer.
+
+Adding this line for the second change and commit.
