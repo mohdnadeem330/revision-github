@@ -8,3 +8,6 @@ Purle
 Rainbows are the mood enhancer.
 
 Adding this line for the second change and commit.
+
+
+Event monitorig is one of the most powerful tools salesforce provides to enhance the secuity and the data integrity.
