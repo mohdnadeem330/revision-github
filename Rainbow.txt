@@ -11,3 +11,10 @@ Adding this line for the second change and commit.
 
 
 Event monitorig is one of the most powerful tools salesforce provides to enhance the secuity and the data integrity.
+
+
+Profile and permission sets are meant to give the primary and base level of access to users in salesforc.
+
+Generally the profile is the determined by the job/ role the user will have in the orgnization.On the other hand permission sets are used to add the access for the user.
+
+lets say there are two profiles in the org Manager and Emplyoee. There is a associate who joined the org whom whose job fuction requies some of the acess level of manager and some from empyoee. so what we can do is we will assign to him one of the profiles manager/ emplyoees and give any of the required extra access via permission sets. 
